@@ -1,5 +1,5 @@
 # Capstone
-*Marta Ghiglioni*
+*Rohith*
 
 ![intro](./img/intro.jpeg)
 
