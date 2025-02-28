@@ -1,7 +1,6 @@
 # Capstone
 *Rohith*
-
-![intro](./img/intro.jpeg)
+#Crop Phenotyping using Spectral classification
 
 ## Background
 
