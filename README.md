@@ -1,6 +1,6 @@
 # Capstone
 *Rohith*
-#Crop Phenotyping using Spectral classification
+## Crop Phenotyping using Spectral classification
 
 ## Background
 
